@@ -47,3 +47,6 @@ Precios y Descuentos
 - ***2***: En la compra mínima de ***5 unidades***, todos los productos del mismo tipo se cobran con ***50% de descuento***.
 - ***3***: En la compra de ***una unidad***, únicamente la siguiente del mismo tiene ***50% de descuento***.
 
+Extra
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Para ejecutar el simulador se debe ****descargar todos los archivos*** de la carpeta [Simualdor MC68HC11](https://github.com/BarrigueteHector/Caja-Registradora-Motorola-68HC11/tree/main/Simulador%2068HC11) y se debe de ejecutar la aplicación ***thrsim11***.
