@@ -49,4 +49,4 @@ Precios y Descuentos
 
 Extra
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Para ejecutar el simulador se debe ****descargar todos los archivos*** de la carpeta [Simualdor MC68HC11](https://github.com/BarrigueteHector/Caja-Registradora-Motorola-68HC11/tree/main/Simulador%2068HC11) y se debe de ejecutar la aplicación ***thrsim11***.
+Para ejecutar el simulador se debe ***descargar todos los archivos*** de la carpeta [Simualdor MC68HC11](https://github.com/BarrigueteHector/Caja-Registradora-Motorola-68HC11/tree/main/Simulador%2068HC11) y se debe de ejecutar la aplicación ***thrsim11***.
